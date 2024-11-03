@@ -111,12 +111,29 @@
 				},
 				{
 					"id": "2fdc33b4-d7f1-4e53-9c14-447c5b78230f",
-					"name": "Last Shoppings",
+					"name": "last Shoppings",
 					"datatype": "c7828464-3830-4350-b7d3-bf716f6572dc",
 					"param": "",
 					"pk": false,
 					"nn": true,
 					"list": true,
+					"fk": false,
+					"comment": "",
+					"data": "",
+					"enum": "",
+					"validation": "",
+					"pattern": false,
+					"estimatedSize": "",
+					"any": ""
+				},
+				{
+					"id": "54a249c2-16c4-40ae-942a-68e5ee097bb6",
+					"name": "register date",
+					"datatype": "timestamp",
+					"param": "",
+					"pk": false,
+					"nn": true,
+					"list": false,
 					"fk": false,
 					"comment": "",
 					"data": "",
@@ -1104,7 +1121,7 @@
 		"def_collation": "",
 		"def_others": "",
 		"connectionVersion": "",
-		"lastSaved": 1730641835722
+		"lastSaved": 1730658739220
 	},
 	"otherObjects": {},
 	"diagrams": {
@@ -1124,7 +1141,7 @@
 					"referencedItemId": "15ba4dff-74c6-4a5a-8df1-b52c92556a06",
 					"x": 75,
 					"y": 30,
-					"gHeight": 784,
+					"gHeight": 802,
 					"gWidth": 282,
 					"color": "#ffffff",
 					"background": "#03a9f4",
